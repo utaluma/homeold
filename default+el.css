@@ -1,0 +1,41 @@
+/* Code tidied up by ScrapBook */
+.gsc-control-cse, .gsc-control-cse .gsc-table-result { width: 100%; font-family: Arial,sans-serif; font-size: 13px; }
+form.gsc-search-box { font-size: 13px; margin: 0px 0px 4px; width: 100%; }
+table.gsc-search-box { border-style: none; border-width: 0px; border-spacing: 0px; width: 100%; margin-bottom: 2px; }
+table.gsc-search-box td { vertical-align: middle; }
+table.gsc-search-box td.gsc-input { padding-right: 12px; }
+td.gsc-search-button { width: 1%; }
+td.gsc-clear-button { width: 14px; }
+.gsc-search-button { margin-left: 2px; }
+div.gsc-clear-button { display: inline; text-align: right; margin-left: 4px; margin-right: 4px; padding-left: 10px; background-repeat: no-repeat; background-position: center center; background-image: url("clear.gif"); cursor: pointer; }
+.gsc-search-box-tools .gsc-clear-button { display: none; }
+.gsc-results-close-btn { background-image: url("nav_logo114.png"); background-repeat: no-repeat; background-position: -140px -230px; float: right; display: none; opacity: 0; height: 12px; width: 12px; position: absolute !important; top: 20px; right: 20px; cursor: pointer; }
+.gsc-results-wrapper-overlay { border: medium none; margin: auto; border-radius: 1px; overflow: auto; height: 80%; box-shadow: 0px 3px 10px rgba(34, 25, 25, 0.4); border-collapse: separate; background: white none repeat scroll 0% 0%; padding: 30px; width: 70%; position: fixed !important; top: 5%; left: 12%; opacity: 0; z-index: 100002; visibility: hidden; transition: all 0.25s linear 0s; }
+.gsc-modal-background-image { position: fixed !important; top: 0px; left: 0px; height: 130%; width: 100%; z-index: 100001; background-color: white; opacity: 0; display: none; transition: all 0.25s linear 0s; }
+input.gsc-input { padding: 1px 6px; border: 1px solid rgb(221, 221, 221); width: 99%; }
+.gsc-positioningWrapper { position: relative; }
+.gsc-tabsAreaInvisible, .gsc-refinementsAreaInvisible, .gsc-refinementBlockInvisible { display: none; }
+.gsc-tabHeader { padding-left: 6px; padding-right: 6px; margin-right: 2px; margin-top: 2px; }
+.gsc-tabHeader.gsc-tabhActive {  }
+.gsc-tabData.gsc-tabdActive { display: block; }
+.gsc-resultsbox-invisible { display: none; }
+.gsc-wrapper { position: relative; display: block; }
+.gsc-adBlockInvisible { display: none; }
+.gsc-above-wrapper-area-invisible { display: none; }
+.gsc-above-wrapper-area-container { width: 100%; }
+.gsc-result-info-container { text-align: left; }
+.gsc-result-info-invisible { display: none; }
+.gsc-orderby-container { text-align: right; background: transparent none repeat scroll 0% 0%; }
+.gsc-orderby-invisible { display: none; }
+.gsc-orderby-label { color: rgb(103, 103, 103); padding: 5px 5px 6px 0px; }
+.gsc-selected-option-container { background-color: transparent; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 2px; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1); color: rgb(68, 68, 68); cursor: default; font-size: 11px; font-weight: bold; height: 27px; line-height: 27px; max-width: 90%; min-width: 54px; outline: 0px none; padding: 0px 28px 0px 6px; position: relative; text-align: center; }
+.gsc-selected-option { position: relative; width: 100%; }
+.gsc-control-cse .gsc-option-selector { border: medium none; height: 11px; margin-top: -4px; position: absolute; right: 5px; top: 12px; width: 7px; padding: 0px 5px; background: rgba(0, 0, 0, 0) url("small-grey-disclosure-arrow-down.png") no-repeat scroll center center; }
+.gsc-option-menu-invisible { display: none; }
+.gsc-control-cse .gsc-option-menu-container { color: rgb(0, 0, 0); font-size: 80%; position: relative; }
+.gsc-option-menu-item { color: rgb(119, 119, 119); cursor: pointer; list-style: outside none none; margin: 0px; padding: 0px 30px; white-space: nowrap; }
+.gsc-option-menu-item-highlighted { background-color: rgb(238, 238, 238); border-color: rgb(238, 238, 238); border-width: 1px 0px; color: rgb(51, 51, 51); }
+.gsc-option { cursor: pointer; list-style: outside none none; white-space: nowrap; line-height: 27px; text-align: left; }
+.gsc-control-cse::after { content: "."; display: block; clear: both; height: 0px; visibility: hidden; }
+html > body .gsc-inline-block { display: inline-block; }
+.gsc-inline-block { display: inline-block; }

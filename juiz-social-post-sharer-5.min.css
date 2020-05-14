@@ -1,0 +1,26 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "jsps";
+  font-style: normal;
+  font-weight: normal;
+  src: url("jsps.eot") format("embedded-opentype"), url("jsps.woff") format("woff"), url("jsps.ttf") format("truetype"), url("jsps.svg") format("svg");
+}
+[class^="jsps-"], [class*="jsps-"] { font-family: "jsps" !important; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -moz-osx-font-smoothing: grayscale; font-size: 1.5em; }
+.jsps-mail::before { content: ""; }
+.jsps-google::before { content: ""; vertical-align: -0.1em; }
+.jsps-facebook::before { position: relative; left: -0.05em; content: ""; vertical-align: 0.11em; }
+.jsps-twitter::before { content: ""; }
+.jsps-pinterest::before { content: ""; }
+.juiz_sps_links { overflow-wrap: normal !important; clear: both; margin: 1em 0px; }
+.juiz_sps_maybe_hidden_text { position: absolute; left: -9999px; text-indent: -9999px; }
+.juiz_sps_links ul, .juiz_sps_links li { padding: 0px !important; margin: 0px !important; list-style: outside none none !important; }
+.juiz_sps_links li, .juiz_sps_links li a, .juiz_sps_links li a .juiz_sps_icon, .juiz_sps_links li a, .juiz_sps_links li a .juiz_sps_network_name { display: inline-block; vertical-align: middle; }
+.juiz_sps_links li a { padding: 6px 15px 8px 10px; margin: 3px 5px 0px 0px; border: 1px solid rgb(221, 221, 221); color: rgb(255, 255, 255); text-decoration: none; font-size: 13px; font-weight: bold; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35); background-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.26) 100%); box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.19), 0px 0px 5px rgba(255, 255, 255, 0.38) inset; border-radius: 4px; background-clip: padding-box; }
+.juiz_sps_links li:last-child a { margin-right: 0px; }
+.juiz_sps_links .juiz_sps_icon { margin-right: 0.4em; }
+.juiz_sps_links a:hover, .juiz_sps_links a:focus { color: rgb(255, 255, 255) !important; }
+.juiz_sps_links .juiz_sps_link_twitter a, .juiz_sps_links .juiz_sps_link_twitter a:hover, .juiz_sps_links .juiz_sps_link_twitter a:focus { border: 1px solid rgb(79, 181, 193); background-color: rgb(89, 209, 223); }
+.juiz_sps_links .juiz_sps_link_google a, .juiz_sps_links .juiz_sps_link_google a:hover, .juiz_sps_links .juiz_sps_link_google a:focus { border: 1px solid rgb(171, 43, 29); background-color: rgb(191, 55, 39); }
+.juiz_sps_links .juiz_sps_link_facebook a, .juiz_sps_links .juiz_sps_link_facebook a:hover, .juiz_sps_links .juiz_sps_link_facebook a:focus { border: 1px solid rgb(49, 75, 131); background-color: rgb(59, 89, 153); }
+.juiz_sps_links .juiz_sps_link_pinterest a, .juiz_sps_links .juiz_sps_link_pinterest a:hover, .juiz_sps_links .juiz_sps_link_pinterest a:focus { border: 1px solid rgb(174, 19, 25); background-color: rgb(205, 37, 43); }
+.juiz_sps_links .juiz_sps_link_mail a, .juiz_sps_links .juiz_sps_link_mail a:hover, .juiz_sps_links .juiz_sps_link_mail a:focus, .juiz_sps_links .juiz_sps_link_bookmark a, .juiz_sps_links .juiz_sps_link_bookmark a:hover, .juiz_sps_links .juiz_sps_link_bookmark a:focus, .juiz_sps_links .juiz_sps_link_print a, .juiz_sps_links .juiz_sps_link_print a:hover, .juiz_sps_links .juiz_sps_link_print a:focus { background-color: rgb(222, 222, 222); color: rgb(0, 0, 0) !important; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4) inset; }

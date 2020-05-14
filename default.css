@@ -1,0 +1,19 @@
+/* Code tidied up by ScrapBook */
+.cse .gsc-control-cse, .gsc-control-cse { padding: 1em; width: auto; }
+.cse .gsc-control-wrapper-cse, .gsc-control-wrapper-cse { width: 100%; }
+.cse .gsc-control-cse, .gsc-control-cse { background-color: rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255); }
+.cse .gsc-control-cse::after, .gsc-control-cse::after { content: "."; display: block; height: 0px; clear: both; visibility: hidden; }
+table.gsc-search-box td.gsc-input { padding-right: 24px; }
+.gsc-search-box-tools .gsc-search-box .gsc-input { padding-right: 12px; }
+input.gsc-input { font-size: 16px; }
+.gsc-input-box { border: 1px solid rgb(223, 225, 229); background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+.cse .gsc-search-button-v2, .gsc-search-button-v2 { font-size: 0px; padding: 6px 27px; width: auto; vertical-align: middle; border: 1px solid rgb(48, 121, 237); border-radius: 2px; background-color: rgb(77, 144, 254); }
+.cse .gsc-search-button-v2:hover, .gsc-search-button-v2:hover { border-color: rgb(47, 91, 183); background-color: rgb(53, 122, 232); }
+.cse .gsc-search-button-v2:focus, .gsc-search-button-v2:focus { box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.5) inset; }
+.gsc-search-button-v2 svg { fill: rgb(255, 255, 255); }
+button::-moz-focus-inner { padding: 0px; border: 0px none; }
+.gsc-tabHeader { border: medium none; font-size: 13px; font-weight: bold; padding: 0px 8px 1px; margin-right: 0px; margin-top: 0px; line-height: 27px; min-width: 54px; text-align: center; }
+.gsc-tabHeader.gsc-tabhActive { color: rgb(26, 115, 232); border-bottom: 2px solid rgb(26, 115, 232); }
+div.gsc-clear-button { background-image: url("clear.png"); }
+div.gsc-clear-button:hover { background-image: url("clear-hover.png"); }
+.gsc-selected-option-container { background-color: whitesmoke; }

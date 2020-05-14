@@ -1,0 +1,13 @@
+/* Code tidied up by ScrapBook */
+@keyframes whee {
+0% { transform: rotate(0deg) scale(1.3); }
+100% { transform: rotate(-360deg) scale(1.3); }
+}
+@keyframes whee {
+0% { transform: rotate(0deg) scale(1.3); }
+100% { transform: rotate(-360deg) scale(1.3); }
+}
+@media not all, not all, only screen and (min--moz-device-pixel-ratio: 1.5), not all {
+}
+@media not all {
+}
