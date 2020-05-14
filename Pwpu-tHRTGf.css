@@ -1,0 +1,8 @@
+/* Code tidied up by ScrapBook */
+.clearfix::after { clear: both; content: "."; display: block; font-size: 0px; height: 0px; line-height: 0; visibility: hidden; }
+.clearfix {  }
+#facebook .hidden_elem { display: none !important; }
+@keyframes rotateSpinner {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
+}

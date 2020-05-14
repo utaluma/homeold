@@ -1,0 +1,12 @@
+/* Code tidied up by ScrapBook */
+.uiScaledImageContainer { position: relative; overflow: hidden; }
+.uiScaledImageContainer img { height: 100%; min-height: 100%; position: relative; }
+.uiScaledImageContainer .scaledImageFitWidth { height: auto; min-height: initial; width: 100%; }
+@keyframes piyqo8ul-B {
+0% { opacity: 0.02; }
+100% { opacity: 0.08; }
+}
+@keyframes srbsyapi-B {
+0%, 100% { opacity: 0; }
+}
+._2ph- { padding: 8px; }

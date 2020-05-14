@@ -1,0 +1,9 @@
+/* Code tidied up by ScrapBook */
+i.img {  }
+.lfloat { float: left; }
+._42ft { cursor: pointer; display: inline-block; text-decoration: none; white-space: nowrap; }
+._42ft::-moz-focus-inner { border: 0px none; padding: 0px; }
+.gecko ._42ft:focus { outline: 1px dotted rgb(59, 89, 152); }
+._42ft:hover { text-decoration: none; }
+._42ft + ._42ft { margin-left: 4px; }
+._3-8_ { margin-right: 4px; }

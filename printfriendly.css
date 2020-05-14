@@ -1,0 +1,7 @@
+/* Code tidied up by ScrapBook */
+div.printfriendly { position: relative; z-index: 1000; }
+div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited { vertical-align: bottom; }
+.printfriendly a { box-shadow: none; }
+.printfriendly a:hover { cursor: pointer; }
+.printfriendly a img { border: medium none; padding: 0px; margin-right: 6px; box-shadow: none; }
+.pf-alignright { float: right; }
